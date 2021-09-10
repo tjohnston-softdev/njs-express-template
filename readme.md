@@ -15,7 +15,7 @@ The generator tool is very useful at what it does but as somebody who works prim
 3. Run the server using `SET DEBUG=njs-express-template:* & npm start`
 4. Go to [localhost:3000](http://localhost:3000) to view the server home page.
 
-Generated using the command `npx express-generator --ejs --git`
+Generated using the command: `npx express-generator --ejs --git`
 
 ---
 
