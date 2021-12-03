@@ -1,6 +1,6 @@
 # Node JS Express Server Template
 
-This repository serves as a template for Node JS server applications running on the [Express framework](https://expressjs.com/). These frameworks can be a little complicated to get started with since it isn't always just installing a single package like in other use cases. Frameworks such as Express are made up of many different components and sub-components. It isn't always obvious which packages you should install for a given server.
+This repository serves as a template for Node JS server applications running on the [Express framework](https://expressjs.com/). These frameworks can be a little complicated to get started with since it isn't always just installing a single package like in other use cases. Frameworks such as Express are made up of many different components and sub-components. It isn't always obvious which packages you should install for a given project.
 
 Thankfully the Express developers are aware of the complexities and offer a [generator tool](https://expressjs.com/en/starter/generator.html) for the terminal that can automatically initialize an Express server project with the necessary packages. You are also given options of what view engine to use for server-side rendering, such as [EJS](https://ejs.co/).
 
@@ -21,4 +21,6 @@ Generated using the command: `npx express-generator --view=ejs --git`
 
 ## Disclaimer
 
-This demo project is licensed under CC0 1.0 Universal. This is just a personal template for [Express.js](https://expressjs.com/) server applications that I have made available for public reference. This was created using the [express generator tool](https://expressjs.com/en/starter/generator.html). The generated server files are exactly as-is except for placeholder files added to empty folders. I do not claim any copyright over this template. The local files and the 3rd-party packages are property of their respective owners and I have no affiliation with them in any way. While I will keep this repository updated as time goes on, I do not claim any responsibility for how you use this, or anything that might go wrong.
+This demo project is licensed under CC0 1.0 Universal. This is just a personal template for [Express.js](https://expressjs.com/) server applications that I have made available for public reference. This was created using the [express generator tool](https://expressjs.com/en/starter/generator.html). The generated server files are exactly as-is except for placeholder files added to empty folders. I do not claim any copyright over this template. The local files and the 3rd-party packages are property of their respective owners and I have no affiliation with them in any way.
+
+As of December 2021, this repository is automatically updated with a [GitHub Actions](https://github.com/tjohnston-softdev/njs-express-template-updater) script on the first of every month at around 12PM UTC. In the event that something goes wrong with this process, I will manually correct it.
