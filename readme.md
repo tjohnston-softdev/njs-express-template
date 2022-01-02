@@ -24,5 +24,3 @@ Generated using the command: `npx express-generator --view=ejs --git`
 This demo project is licensed under CC0 1.0 Universal. This is just a personal template for [Express.js](https://expressjs.com/) server applications that I have made available for public reference. This was created using the [express generator tool](https://expressjs.com/en/starter/generator.html). The generated server files are exactly as-is except for placeholder files added to empty folders. I do not claim any copyright over this template. The local files and the 3rd-party packages are property of their respective owners and I have no affiliation with them in any way.
 
 As of December 2021, this repository is automatically updated with a [GitHub Actions](https://github.com/tjohnston-softdev/njs-express-template-updater) script on the first of every month at around 12PM UTC. In the event that something goes wrong with this process, I will manually correct it.
-
----
