@@ -2,7 +2,7 @@
 
 This repository serves as a template for Node JS server applications running on the [Express framework](https://expressjs.com/). These frameworks can be a little complicated to get started with since it isn't always just installing a single package like in other use cases. Frameworks such as Express are made up of many different components and sub-components. It isn't always obvious which packages you should install for a given project.
 
-Thankfully the Express developers are aware of the complexities and offer a [generator tool](https://expressjs.com/en/starter/generator.html) for the terminal that can automatically initialize an Express server project with the necessary packages. You are also given options of what view engine to use for server-side rendering, such as [EJS](https://ejs.co/).
+Thankfully the Express developers seem to be aware of this because they offer a [generator tool](https://expressjs.com/en/starter/generator.html) for the terminal that can automatically initialize an Express server project with the necessary packages. You are also given options of what view engine to use for server-side rendering, such as [EJS](https://ejs.co/).
 
 The generator tool is very useful at what it does but as somebody who works primarily in the back-end, I was a little confused by all of the different *view engines* on offer. Hence, I decided to create a repository that I can use as a template for Express APIs without having to refer back to the tutorial. It uses EJS for server-side rendering and vanilla CSS. I also included the `.gitignore` file.
 
